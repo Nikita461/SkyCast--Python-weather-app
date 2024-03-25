@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 2rem;
+   
+    background-image: url("weather.jpeg");
+    background-size: contain;
+    
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    font-size: 2rem;
+}
+h1
+{
+   color: #00FF00; 
+}
+p{
+    color: #FF0000
+}
+
+input,
+button {
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
