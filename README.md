@@ -5,10 +5,12 @@ Furthermore, it empowers users to adapt and optimize their plans based on the cu
 
 User Interface:
 
-![image](https://github.com/Nikita461/SkyCast--Python-weather-app/assets/69640422/76400244-5ca6-4934-8bca-fe8f91434f2e)
+![image](https://github.com/Nikita461/SkyCast--Python-weather-app/assets/69640422/33c9a2a0-a2c7-40af-aef3-1dca7c3d1f21)
+
 
 Result:
 
-![image](https://github.com/Nikita461/SkyCast--Python-weather-app/assets/69640422/5061cb4e-26fe-4cc1-9766-33f2f4f65277)
+![image](https://github.com/Nikita461/SkyCast--Python-weather-app/assets/69640422/74d588e3-a0de-447f-aae2-0c405df2d096)
+
 
 
